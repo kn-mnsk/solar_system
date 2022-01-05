@@ -1,0 +1,39 @@
+[Header]
+ICOfile = "Milkyway_small_Thumb.tga"
+Name = "Milkyway_small"
+Author = ""
+Location = "C:\Users\mnskk_000\Desktop\sIBLedit103\myimg"
+Comment = ""
+
+[Background]
+BGfile = "Milkyway_small_Bg.tga"
+BGmap = 1
+BGu = 0.000000
+BGv = 0.000000
+BGheight = 1024
+
+[Enviroment]
+EVfile = "Milkyway_small_Env.hdr"
+EVmap = 1
+EVu = 0.000000
+EVv = 0.000000
+EVheight = 180
+EVmulti = 1.000000
+EVgamma = 1.000000
+
+[Reflection]
+REFfile = "Milkyway_small_Ref.hdr"
+REFmap = 1
+REFu = 0.000000
+REFv = 0.000000
+REFheight = 512
+REFmulti = 1.000000
+REFgamma = 1.000000
+
+[Light1]
+LIGHTname = "Sun"
+LIGHTcolor = 0,0,0
+LIGHTmulti = 0.000000
+LIGHTu = 0.000000
+LIGHTv = 0.000000
+

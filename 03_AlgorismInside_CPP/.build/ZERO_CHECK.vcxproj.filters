@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\.build\CMakeFiles\1c99237aed41e1b4852988ec28598d9d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4C0D0B58-6B18-3B71-861C-7D6F26B6AE74}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

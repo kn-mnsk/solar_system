@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\src\solar0503_AlgorismInside.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\original\camera.h">
+      <Filter>Header_LearnOpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\original\filesystem.h">
+      <Filter>Header_LearnOpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\original\mesh.h">
+      <Filter>Header_LearnOpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\original\model.h">
+      <Filter>Header_LearnOpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\original\shader.h">
+      <Filter>Header_LearnOpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\original\shader_m.h">
+      <Filter>Header_LearnOpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\original\shader_s.h">
+      <Filter>Header_LearnOpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\custom\MyTimer.h">
+      <Filter>Header_Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\custom\mycamera.h">
+      <Filter>Header_Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\custom\mymesh.h">
+      <Filter>Header_Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\custom\mymodel.h">
+      <Filter>Header_Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\learnopengl\learnopengl\custom\myshader.h">
+      <Filter>Header_Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\mydevelop\mydevelop\mytools2.h">
+      <Filter>Header_Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\mydevelop\mydevelop\solartool2.h">
+      <Filter>Header_Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\.globaltool\mydevelop\mydevelop\text.h">
+      <Filter>Header_Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\localtool\configuration\configuration\root_directory.h">
+      <Filter>Header_Custom</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\axes.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\axes.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\camera.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\camera.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\line.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\line.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\plane.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\plane.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\planet.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\planet.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\satellite.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\satellite.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\star.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\star.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\starshiny.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\starshiny.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\stella.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\stella.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\text.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\text.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\textquad.frag">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\shader\textquad.vert">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header_Custom">
+      <UniqueIdentifier>{DF532AA4-8D87-33E3-B6AF-D1DEBBEA5FD0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header_LearnOpenGL">
+      <UniqueIdentifier>{4B5F1217-83F8-30A9-9CCC-AA6C222781F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{6A18875C-116C-3752-8593-325156E19937}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{06806024-F8DA-3A57-8865-7978DB8FB51D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

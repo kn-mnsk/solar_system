@@ -1,0 +1,16 @@
+texName,texFile,texUnitNo,unifLocName
+sun,textures/solar/sun.jpg,0,surface
+mercury,textures/solar/mercury.jpg,0,surface
+venus,textures/solar/venus.jpg,0,surface
+earth,textures/solar/earth.jpg,0,surface
+moon,textures/solar/moon.jpg,0,surface
+mars,textures/solar/mars.jpg,0,surface
+phobos,textures/solar/phobos.jpg,0,surface
+deimos,textures/solar/deimos.jpg,0,surface
+ceres,textures/solar/ceres.jpg,0,surface
+jupiter,textures/solar/jupiter.jpg,0,surface
+saturn,textures/solar/saturn.jpg,0,surface
+uranus,textures/solar/uranus.jpg,0,surface
+neptune,textures/solar/neptune.jpg,0,surface
+pluto,textures/solar/pluto.jpg,0,surface
+shininess,textures/solar/shininess.dds,1,shininess

@@ -1,0 +1,10 @@
+shaderName,toUse,vert,frag,tesc,tese,qeom,unifLocName,unifBlockName,unifBlockBindingIndex,texUnifLocName,texUnitNo
+stella,1,stella.vert,stella.frag,NULL,NULL,NULL,,MVPBlock,0,surface,0
+star,1,star.vert,star.frag,NULL,NULL,NULL,,MVPBlock,0,surface,0
+starshiny,0,starshiny.vert,starshiny.frag,NULL,NULL,NULL,,MVPBlock;MaterialBlock;LightBlock,0;1;2,surface;shininess,0;1
+axes,1,axes.vert,axes.frag,NULL,NULL,NULL,,MVPBlock,0,,
+camera,0,camera.vert,camera.frag,NULL,NULL,NULL,color,MVPBlock,0,,
+line,1,line.vert,line.frag,NULL,NULL,NULL,,MVPBlock,0,,
+plane,0,plane.vert,plane.frag,NULL,NULL,NULL,color,MVPBlock,0,,
+text,1,text.vert,text.frag,NULL,NULL,NULL,,MVPBlock,0,text,0
+textquad,1,textquad.vert,textquad.frag,NULL,NULL,NULL,,,,textquad,0

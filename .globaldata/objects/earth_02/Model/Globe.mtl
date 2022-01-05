@@ -1,0 +1,45 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Atmosphere
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\Tutorials_OpenGL\learnopengl\LearnOpenGL-x64-playground\resources\objects\earth_02\Texture\High res\Albedo-diffuse.jpg
+
+newmtl Clouds
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\Tutorials_OpenGL\learnopengl\LearnOpenGL-x64-playground\resources\objects\earth_02\Texture\High res\Albedo-diffuse.jpg
+
+newmtl Earth
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\Tutorials_OpenGL\learnopengl\LearnOpenGL-x64-playground\resources\objects\earth_02\Texture\High res\Albedo-diffuse.jpg
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

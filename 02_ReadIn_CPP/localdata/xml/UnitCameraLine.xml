@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../Documents/meshFormat.rnc" type="compact"?>
+
+<mesh xmlns="http://www.arcsynthesis.com/gltut/mesh" >
+  <attribute index="0" type="float" size="3" >
+    0.0 0.0 0.0
+    0.0 0.0 0.5
+    0.0 0.0 0.0
+    0.0 0.5 0.0
+  </attribute>
+  <attribute index="1" type="float" size="4" >
+    1.0 0.0 0.0 1.0
+    1.0 0.0 0.0 1.0
+    0.0 0.0 1.0 1.0
+    0.0 0.0 1.0 1.0
+  </attribute>
+  <vao name="target" >
+    <source attrib="0" />
+    <source attrib="1" />
+  </vao>
+  <vao name="perp" >
+    <source attrib="2" />
+    <source attrib="3" />
+  </vao>
+  <arrays cmd="target" start="0" count="2" />
+  <arrays cmd="perp" start="2" count="2" />
+</mesh>

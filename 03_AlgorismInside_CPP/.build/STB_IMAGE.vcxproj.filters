@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\MyDevelopment\.common_sdk\stb\stb_image.h_2.26\src\stb_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\MyDevelopment\01_Solar\solar05_newStructure\03_AlgorismInside_CPP\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{06806024-F8DA-3A57-8865-7978DB8FB51D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

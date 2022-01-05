@@ -1,0 +1,5 @@
+E:/MyDevelopment/01_Solar/solar05_newStructure/02_ReadIn_CPP/.build/CMakeFiles/STB_IMAGE.dir
+E:/MyDevelopment/01_Solar/solar05_newStructure/02_ReadIn_CPP/.build/CMakeFiles/GLAD.dir
+E:/MyDevelopment/01_Solar/solar05_newStructure/02_ReadIn_CPP/.build/CMakeFiles/02_ReadIn_CPP.dir
+E:/MyDevelopment/01_Solar/solar05_newStructure/02_ReadIn_CPP/.build/CMakeFiles/ALL_BUILD.dir
+E:/MyDevelopment/01_Solar/solar05_newStructure/02_ReadIn_CPP/.build/CMakeFiles/ZERO_CHECK.dir
